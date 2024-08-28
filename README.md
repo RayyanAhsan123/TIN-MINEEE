@@ -1,1 +1,1 @@
-# TIN-MINEEE
+# tins
